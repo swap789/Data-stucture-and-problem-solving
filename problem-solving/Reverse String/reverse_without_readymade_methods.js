@@ -1,3 +1,9 @@
+/*
+Input - I work in javascript language
+Output - language javascript in work I
+*/
+
+
 function reverseLine(str) {
     let arr = [];
     let sample = '';
